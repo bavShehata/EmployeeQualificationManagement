@@ -1,2 +1,2 @@
 # EmployeeQualificationManagement
-Software Engineering group project sophmore year BUE
+Software Engineering group project sophomore year BUE
