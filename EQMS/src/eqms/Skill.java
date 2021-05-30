@@ -30,6 +30,8 @@ public class Skill {
         this.title = title;
         this.description = description;
         this.bonus = bonus;
+        courses = new ArrayList<Course>();
+
     }
     public Skill(int id, String title, String description, float bonus) {
         this.id = id;
